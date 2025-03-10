@@ -2,8 +2,6 @@ Image Carousel
 
 Welcome to the Image Carousel project! This project is a simple, responsive image slider that allows users to navigate through a collection of images seamlessly.
 
-Live Demo
-[View Live Website](#) *(Replace with your link)*
 
 Features
 - Smooth image transitions
@@ -17,4 +15,4 @@ Technologies Used
 - JavaScript
 
 Contact
-- **Email:** your-email@example.com
+- Email: ayushsharma1a2b@gmail.com
